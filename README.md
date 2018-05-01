@@ -14,6 +14,8 @@ project operating a regular light bulb, but with problems.
 - https://youtu.be/OeRLf1SrVcU
 - https://youtu.be/o9J_xXDBoP8
 
+On the second video, the power supply (HPK-PM01) was not in used yet. The power is provided by the 5V serial connector.
+
 I do not have any idea yet what the problem is. Do not hesitate to contact me if you have a clue of what the problem can be. I'm most likely missing something related to high voltages and noise.
 
 Enjoy!
