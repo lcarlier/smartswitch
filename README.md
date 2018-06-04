@@ -8,7 +8,7 @@ This project implements a smart switch based on Atmega328 that has the following
 
 Here is the way the Smart switch is to be connected with the 3 way physical switch
 
-![SmartSwitchConnection](/images/SmartSwitchConnection.png  "Initial Design")
+![SmartSwitchConnection](https://www.openhardware.io//uploads/5ae72bddbbbc14eb1d148f0c/image/SmartSwitchConnection.png  "Initial Design")
 
 For the full description of this project, please consult [this post on my website](https://www.laurentcarlier.com/2018/04/My-smart-switch-project.html).
 
